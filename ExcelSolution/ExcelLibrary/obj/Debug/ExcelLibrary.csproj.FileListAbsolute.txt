@@ -1,0 +1,6 @@
+c:\users\matt\documents\visual studio 2017\Projects\ExcelSolution\ExcelLibrary\bin\Debug\ExcelLibrary.dll
+c:\users\matt\documents\visual studio 2017\Projects\ExcelSolution\ExcelLibrary\bin\Debug\ExcelLibrary.pdb
+c:\users\matt\documents\visual studio 2017\Projects\ExcelSolution\ExcelLibrary\obj\Debug\ExcelLibrary.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2017\Projects\ExcelSolution\ExcelLibrary\obj\Debug\ExcelLibrary.csproj.ResolveComReference.cache
+c:\users\matt\documents\visual studio 2017\Projects\ExcelSolution\ExcelLibrary\obj\Debug\ExcelLibrary.dll
+c:\users\matt\documents\visual studio 2017\Projects\ExcelSolution\ExcelLibrary\obj\Debug\ExcelLibrary.pdb
